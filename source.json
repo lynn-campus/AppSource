@@ -1,0 +1,90 @@
+{
+  "name": "Pornhub",
+  "identifier": "com.lynn.pornhub.app",
+  "subtitle": "原生 Pornhub 客户端（iOS / iPadOS / macOS）",
+  "description": "原生 SwiftUI 客户端，直接解析站点页面，无需登录即可浏览。\n\n功能：首页 / 推荐 / 热门 / 最新 / 高分、搜索（视频 + 模特）、分类、明星目录、模特与频道主页、视频播放与清晰度切换、相关推荐、标签下钻。\n\n说明：内容为成人向，仅限成年人使用；IPA 为未签名版本，由 AltStore / SideStore / LiveContainer 安装时使用你自己的证书签名。",
+  "iconURL": "https://raw.githubusercontent.com/lynn-campus/AppSource/main/icon-1024.png",
+  "headerURL": "https://raw.githubusercontent.com/lynn-campus/AppSource/main/icon-1024.png",
+  "website": "https://github.com/lynn-campus/AppSource",
+  "tintColor": "#FF9000",
+  "nsfw": true,
+  "apps": [
+    {
+      "name": "Pornhub",
+      "bundleIdentifier": "com.lynn.pornhub.app",
+      "developerName": "Lynn",
+      "subtitle": "原生 SwiftUI 的 Pornhub 客户端",
+      "localizedDescription": "原生 SwiftUI 客户端，直接解析站点页面，无需登录即可浏览。\n\n功能：首页 / 推荐 / 热门 / 最新 / 高分、搜索（视频 + 模特）、分类、明星目录、模特与频道主页、视频播放与清晰度切换、相关推荐、标签下钻。\n\n说明：内容为成人向，仅限成年人使用；IPA 为未签名版本，由 AltStore / SideStore / LiveContainer 安装时使用你自己的证书签名。",
+      "iconURL": "https://raw.githubusercontent.com/lynn-campus/AppSource/main/icon-1024.png",
+      "tintColor": "#FF9000",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.2.4",
+          "buildVersion": "202610290222",
+          "date": "2026-10-28T18:23:14Z",
+          "localizedDescription": "Pornhub 1.2.4\n\n更新内容见 release 说明。",
+          "downloadURL": "https://github.com/lynn-campus/AppSource/releases/download/v1.2.4/App.ipa",
+          "size": 839711,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.2.3",
+          "buildVersion": "202610290206",
+          "date": "2026-10-28T18:06:39Z",
+          "localizedDescription": "Pornhub 1.2.3\n\n更新内容见 release 说明。",
+          "downloadURL": "https://github.com/lynn-campus/AppSource/releases/download/v1.2.3/App.ipa",
+          "size": 837899,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.2.2",
+          "buildVersion": "202610290202",
+          "date": "2026-10-28T18:03:01Z",
+          "localizedDescription": "Pornhub 1.2.2\n\n更新内容见 release 说明。",
+          "downloadURL": "https://github.com/lynn-campus/AppSource/releases/download/v1.2.2/App.ipa",
+          "size": 829855,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.2.1",
+          "buildVersion": "202610290151",
+          "date": "2026-10-28T17:51:33Z",
+          "localizedDescription": "Pornhub 1.2.1\n\n更新内容见 release 说明。",
+          "downloadURL": "https://github.com/lynn-campus/AppSource/releases/download/v1.2.1/App.ipa",
+          "size": 804748,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.2.0",
+          "buildVersion": "202610282208",
+          "date": "2026-10-28T14:08:39Z",
+          "localizedDescription": "Pornhub 1.2.0\n\n更新内容见 release 说明。",
+          "downloadURL": "https://github.com/lynn-campus/AppSource/releases/download/v1.2.0/App.ipa",
+          "size": 782436,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.1.0",
+          "buildVersion": "202610282144",
+          "date": "2026-10-28T13:46:39Z",
+          "localizedDescription": "Pornhub 1.1.0\n\n更新内容见 release 说明。",
+          "downloadURL": "https://github.com/lynn-campus/AppSource/releases/download/v1.1.0/App.ipa",
+          "size": 705040,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2026-10-28T11:18:09Z",
+          "localizedDescription": "Pornhub 1.0.0\n\n更新内容见 release 说明。",
+          "downloadURL": "https://github.com/lynn-campus/AppSource/releases/download/v1.0.0/App.ipa",
+          "size": 542674,
+          "minOSVersion": "16.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}

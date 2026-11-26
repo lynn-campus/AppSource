@@ -7,7 +7,7 @@ App install source.
 Add this URL as a source in LiveContainer / SideStore / AltStore:
 
 ```
-https://gist.githubusercontent.com/LynnGuo666/0229bab3dd4b0f4dda42e33558aafc10/raw/source.json
+https://raw.githubusercontent.com/lynn-campus/AppSource/main/source.json
 ```
 
 Install the app from the source and sign it with your own certificate.
