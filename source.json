@@ -12,7 +12,7 @@
     {
       "name": "Pornhub",
       "bundleIdentifier": "com.lynn.pornhub.app",
-      "developerName": "Lynn",
+      "developerName": "lynn-campus",
       "subtitle": "原生 SwiftUI 的 Pornhub 客户端",
       "localizedDescription": "原生 SwiftUI 客户端，直接解析站点页面，无需登录即可浏览。\n\n功能：首页 / 推荐 / 热门 / 最新 / 高分、搜索（视频 + 模特）、分类、明星目录、模特与频道主页、视频播放与清晰度切换、相关推荐、标签下钻。\n\n说明：内容为成人向，仅限成年人使用；IPA 为未签名版本，由 AltStore / SideStore / LiveContainer 安装时使用你自己的证书签名。",
       "iconURL": "https://raw.githubusercontent.com/lynn-campus/AppSource/main/icon-1024.png",
